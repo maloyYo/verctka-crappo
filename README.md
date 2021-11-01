@@ -4,5 +4,3 @@
 - HTML
 - CSS
 
-
-Для просмотра - https://malo7yo.github.io/verctka-crappo/
